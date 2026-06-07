@@ -4,15 +4,11 @@
 
 - I’m currently learning **DSA, Machine Learning, SQL,Java**
 
-- I’m looking to collaborate on **Data Science, Machine Learning**
-
 - All of my projects are available at [https://github.com/kalanvitha](https://github.com/kalanvitha)
 
 - Ask me about **Java, Python, SQL, Data Science, Machine Learning, DSA**
 
 - How to reach me **kalanvithagundrathi@gmail.com**
-
-- Fun fact **I enjoy solving coding challenges and building real-world software solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
