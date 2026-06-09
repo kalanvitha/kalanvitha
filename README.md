@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalanvitha</h1>
 <h3 align="center">Data Science Student</h3>
-- I’m currently working on **DSA, Machine Learning, and Full-Stack Development**
 
 - I’m currently learning **DSA, Machine Learning, SQL,Java**
 
